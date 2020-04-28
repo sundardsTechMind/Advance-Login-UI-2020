@@ -95,3 +95,19 @@ body {
     text-align: center;
     font-size: 13px;
 }
+
+
+.forgt-btn{
+    margin: 25px;
+    padding: 0px 27px 0px 73px;
+
+}
+.forgt-text{
+    margin: -30px;
+    padding: 0px 58px 36px 76px;
+}
+.rest-text{
+
+    padding: 47px 45px 47px 43px;
+
+}
